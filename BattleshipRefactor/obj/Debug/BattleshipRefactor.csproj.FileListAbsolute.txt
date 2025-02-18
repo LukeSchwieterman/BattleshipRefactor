@@ -1,7 +1,0 @@
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\bin\Debug\BattleshipSimple.exe.config
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\bin\Debug\BattleshipSimple.exe
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\bin\Debug\BattleshipSimple.pdb
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\obj\Debug\BattleshipRefactor.csproj.AssemblyReference.cache
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\obj\Debug\BattleshipRefactor.csproj.CoreCompileInputs.cache
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\obj\Debug\BattleshipSimple.exe
-C:\Users\Luke\Documents\Baker College\C#Programming\Module2\BattleshipRefactor\BattleshipRefactor\obj\Debug\BattleshipSimple.pdb
